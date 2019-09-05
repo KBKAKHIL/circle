@@ -16,7 +16,7 @@ public class circle extends JFrame
  
     public void paint(Graphics g)
     {
-        g.setColor(Color.RED);
+        g.setColor(Color.GREEN);
         g.drawOval(480,480,200,200);
         g.fillOval(480, 480, 200, 200);
     }
